@@ -3,8 +3,8 @@
    Change these values to update the card content
 ===================================================== */
 const universityLogo   = "https://www.eurashe.eu/wp-content/uploads/2023/10/Parul-University-logo.jpg";
-const profilePhoto     = "FINEL IMAGE.jpeg";
-const topProfilePhoto  = "FINEL IMAGE.jpeg";
+const profilePhoto     = "image.jpeg";
+const topProfilePhoto  = "image.jpeg";
 
 const studentName      = "SHUBHAM SANJAY WAGH";
 const enrollmentNo     = "2503051050612";
