@@ -6,10 +6,10 @@ const universityLogo   = "https://www.eurashe.eu/wp-content/uploads/2023/10/Paru
 const profilePhoto     = "image.jpeg";
 const topProfilePhoto  = "image.jpeg";
 
-const studentName      = "SHUBHAM SANJAY WAGH";
-const enrollmentNo     = "2503051050612";
+const studentName      = "ADITYA KHESHAVRAM PAWAR";
+const enrollmentNo     = "2503051050495";
 const hostelName       = "ABRAHAM LINCOLN - A";
-const contactNo        = "8010626675";
+const contactNo        = "7020781879";
 const institute        = "PIT-1";
 const validity         = "01-07-2026 to 30-06-2027";
 const messName         = "ABRAHAM LINCOLN MESS";
